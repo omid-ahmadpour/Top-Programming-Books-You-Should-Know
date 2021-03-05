@@ -1,4 +1,3 @@
-# Top-Programming-Books-You-Should-Know
 # Top-Books-Every-Programmer-Should Know
 Top Programming Books You Should Know
 
