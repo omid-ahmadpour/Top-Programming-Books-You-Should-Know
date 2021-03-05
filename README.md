@@ -1,4 +1,4 @@
-# Top-Books-Every-Programmer-Should Know
+# Top Books Every Programmer Should Know
 Top Programming Books You Should Know
 
 ## 1. Clean Architecture
