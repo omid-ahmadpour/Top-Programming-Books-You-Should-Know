@@ -36,3 +36,5 @@ Top Programming Books You Should Know
 ## 17. [Working Effectively with Unit Tests](https://www.amazon.com/Working-Effectively-Unit-Tests-Fields/dp/B00QS2HXUO)
 
 ## 18. [Soft Skills: The Software Developer's Life Manual 1st Edition](https://www.amazon.com/Soft-Skills-Software-Developers-Manual/dp/9351197646)
+
+## 19. [Agile Principles, Patterns, and Practices in C# 1st Edition](https://www.amazon.com/Agile-Principles-Patterns-Practices-C/dp/0131857258)
