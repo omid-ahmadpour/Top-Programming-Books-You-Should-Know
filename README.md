@@ -40,3 +40,5 @@ Top Programming Books You Should Know
 ## 19. [Agile Principles, Patterns, and Practices in C# 1st Edition](https://www.amazon.com/Agile-Principles-Patterns-Practices-C/dp/0131857258)
 
 ## 20. [C# 9.0 in a Nutshell: The Definitive Reference](https://www.amazon.com/C-9-0-Nutshell-Definitive-Reference/dp/1098100964)
+
+## 20. [Patterns, Principles, and Practices of Domain-Driven Design](https://www.amazon.com/Patterns-Principles-Practices-Domain-Driven-Design/dp/1118714709)
