@@ -41,4 +41,4 @@ Top Programming Books You Should Know
 
 ## 20. [C# 9.0 in a Nutshell: The Definitive Reference](https://www.amazon.com/C-9-0-Nutshell-Definitive-Reference/dp/1098100964)
 
-## 20. [Patterns, Principles, and Practices of Domain-Driven Design](https://www.amazon.com/Patterns-Principles-Practices-Domain-Driven-Design/dp/1118714709)
+## 21. [Patterns, Principles, and Practices of Domain-Driven Design](https://www.amazon.com/Patterns-Principles-Practices-Domain-Driven-Design/dp/1118714709)
