@@ -44,3 +44,5 @@ Top Programming Books You Should Know
 ## 21.[Pro C# 9 with .NET 5: Foundational Principles and Practices in Programming](https://www.amazon.com/Pro-NET-Foundational-Principles-Programming/dp/1484269381)
 
 ## 22.[Building Microservices: Designing Fine-Grained Systems](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1492034029)
+
+## 23.[Clean Craftsmanship: Disciplines, Standards, and Ethics (Robert C. Martin Series)](https://www.amazon.com/Clean-Craftsmanship-Disciplines-Standards-Ethics/dp/013691571X)
